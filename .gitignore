@@ -1,0 +1,11 @@
+# 빌드 산출물 무시
+/target/
+*.class
+
+# IDE 설정 파일 무시
+.vscode/
+*.iml
+.idea/
+
+# 기타
+*.log
